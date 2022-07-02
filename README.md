@@ -1,9 +1,9 @@
-### Hi there 👋
-
-<!--
-**geettyos/geettyos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<table width="100%"  border="0" cellpadding="0" cellspacing="0">
+  <tr>
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=geettyos&show_icons=true&theme=dracula" />
+        <br>
+  </tr>
+</table>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
