@@ -1,5 +1,5 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=geettyos&show_icons=true&theme=dracula" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=useragents&layout=compact&card_width=445&hide_border=true&theme=dracula"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geettyos&layout=compact&card_width=445&hide_border=true&theme=dracula"/>
 
 
 <!--
