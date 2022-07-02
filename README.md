@@ -5,3 +5,8 @@
   </tr>
 </table>
 
+---
+
+<a href="https://github.com/Daggy1234">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daggy1234&layout=compact" />
+</a>
