@@ -4,9 +4,3 @@
         <br>
   </tr>
 </table>
-
----
-
-<a href="https://github.com/Daggy1234">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geettyos4&layout=compact" />
-</a>
